@@ -11,17 +11,20 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Virtual Private Networks (VPNs)</b>
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/joshmadakor1/Sentinel-Lab)
+
+- <b>Active Directory</b>
+  - [Deploying Active Directory and Creating Users](https://github.com/joshmadakor1/EncrypterPOC)
+ 
+- <b>DNS</b>
+  - [Building Intuition For DNS](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Network Files Shares and Permissions</b>
+  - [Network File Shares and Permissions (enabling and disabling users to access files)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Maps and Graphs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
 <h2> 🤳 Connect with me:</h2>
