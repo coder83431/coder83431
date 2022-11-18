@@ -8,7 +8,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/coder83431/osTicket-Post-Installation-Setup/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/coder83431/os-ticket-master/blob/main/README.md)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)</i>
+  - [Configuring Active Directory within Azure VMs](https://github.com/coder83431/Configuring-Active-Directory-Within-Microsoft-VMs/blob/main/README.md)</i>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/coder83431/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 
 - <b>Virtual Private Networks (VPNs)</b>
