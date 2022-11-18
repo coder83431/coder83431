@@ -24,7 +24,7 @@
   - [Network File Shares and Permissions (enabling and disabling users to access files)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 - <b>Python</b>
-  - [Maps and Graphs](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Maps and Graphs](https://github.com/coder83431/Python-Maps-and-Graphs)
 
 
 <h2> 🤳 Connect with me:</h2>
