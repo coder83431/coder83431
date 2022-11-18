@@ -12,7 +12,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>Virtual Private Networks (VPNs)</b>
-  - [VPN Setup and Usage (Proton VPN)](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [VPN Setup and Usage (Proton VPN)](https://github.com/coder83431/VPN-Setup-and-Usage-Proton-VPN-)
 
 - <b>Active Directory</b>
   - [Deploying Active Directory and Creating Users](https://github.com/joshmadakor1/EncrypterPOC)
