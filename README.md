@@ -18,7 +18,7 @@
   - [Building Intuition For DNS](https://github.com/coder83431/-Building-Intuition-for-DNS/blob/main/README.md)
 
 - <b>Network Files Shares and Permissions</b>
-  - [Network File Shares and Permissions (enabling and disabling users to access files)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Network File Shares and Permissions (enabling and disabling users to access files)](https://github.com/coder83431/Network-File-Shares-and-Permissions/blob/main/README.md)
 
 - <b>Python</b>
   - [Maps and Graphs](https://github.com/coder83431/Python-Maps-and-Graphs)
