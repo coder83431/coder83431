@@ -14,11 +14,8 @@
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/coder83431/VPN-Setup-and-Usage-Proton-VPN-)
 
-- <b>Active Directory</b>
-  - [Deploying Active Directory and Creating Users](https://github.com/joshmadakor1/EncrypterPOC)
- 
 - <b>DNS</b>
-  - [Building Intuition For DNS](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Building Intuition For DNS](https://github.com/coder83431/-Building-Intuition-for-DNS/blob/main/README.md)
 
 - <b>Network Files Shares and Permissions</b>
   - [Network File Shares and Permissions (enabling and disabling users to access files)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
