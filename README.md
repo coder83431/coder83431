@@ -23,8 +23,8 @@
 - <b>Kali Linux</b>
   - [NMAP Host Scanning Within Kali Linux VM](https://github.com/coder83431/NMAP-Scanning)
 
-- <b>Vulnerability Scanning and Analysis</b>
-  - [NMAP Host Scanning Within Kali Linux VM](https://github.com/coder83431/NMAP-Scanning)
+- <b>Vulnerability Scanning and Remediation</b>
+   - [Credentialized Scan Of Vulnerable Windows 10 VM Host Using OpenVAS](https://github.com/coder83431/OpenVAS-Tutorial/blob/main/README.md)
 
 - <b>Python</b>
   - [Maps and Graphs](https://github.com/coder83431/Python-Maps-and-Graphs)
