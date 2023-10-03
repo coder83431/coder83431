@@ -10,6 +10,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/coder83431/Configuring-Active-Directory-Within-Microsoft-VMs/blob/main/README.md)</i>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/coder83431/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
+  - [Azure Sentinel SIEM MAP Configured To Capture Honeypot Traffic](https://github.com/coder83431/Configuring-Active-Directory-Within-Microsoft-VMs/blob/main/README.md)</i>
 
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPN Setup and Usage (Proton VPN)](https://github.com/coder83431/VPN-Setup-and-Usage-Proton-VPN-)
