@@ -26,6 +26,8 @@
 
 - <b>Vulnerability Scanning and Remediation</b>
    - [Credentialized Scan Of Vulnerable Windows 10 VM Host Using OpenVAS](https://github.com/coder83431/OpenVAS-Tutorial/blob/main/README.md)
+   - [Credentialized Scan Of Vulnerable Windows 10 VM Host Using Nessus](https://github.com/coder83431/OpenVAS-Tutorial/blob/main/README.md)
+
 
 - <b>Python</b>
   - [Maps and Graphs](https://github.com/coder83431/Python-Maps-and-Graphs)
