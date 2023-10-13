@@ -26,7 +26,7 @@
 
 - <b>Vulnerability Scanning and Remediation/Device Monitoring</b>
    - [Credentialized Scan Of Vulnerable Windows 10 VM Host Using Nessus](https://github.com/coder83431/OpenVAS-Tutorial/blob/main/README.md)
-   - [Splunk Walk-Through](https://github.com/coder83431/Python-Maps-and-Graphs)
+   - [Splunk Walk-Through](https://github.com/coder83431/NMAP-Scanning)
 
 
 - <b>Python</b>
