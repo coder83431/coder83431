@@ -24,8 +24,9 @@
 - <b>Kali Linux</b>
   - [NMAP Host Scanning Within Kali Linux VM](https://github.com/coder83431/NMAP-Scanning)
 
-- <b>Vulnerability Scanning and Remediation</b>
+- <b>Vulnerability Scanning and Remediation/Device Monitoring</b>
    - [Credentialized Scan Of Vulnerable Windows 10 VM Host Using Nessus](https://github.com/coder83431/OpenVAS-Tutorial/blob/main/README.md)
+   - [Splunk Walk-Through](https://github.com/coder83431/Python-Maps-and-Graphs)
 
 
 - <b>Python</b>
