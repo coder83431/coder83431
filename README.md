@@ -30,7 +30,7 @@
 
 
 - <b>Python</b>
-  - [Maps and Graphs](https://github.com/coder83431/Python-Maps-and-Graphs)
+  - [Map and Graph Creation and Analysis](https://github.com/coder83431/Python-Maps-and-Graphs)
 
 
 <h2> 🤳 Connect with me:</h2>
