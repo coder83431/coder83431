@@ -22,7 +22,7 @@
   - [Network File Shares and Permissions (enabling and disabling users to access files)](https://github.com/coder83431/Network-File-Shares-and-Permissions/blob/main/README.md)
 
 - <b>Kali Linux</b>
-  - [NMAP Host Scanning Within Kali Linux VM](https://github.com/coder83431/NMAP-Scanning)
+  - [NMAP Host Scanning Within Kali Linux VM](https://github.com/coder83431/NMAP-Host-Scanning-On-a-Kali-Linux-VM/blob/main/README.md)
 
 - <b>Vulnerability Scanning and Remediation/Device Monitoring</b>
    - [Credentialized Scan Of Vulnerable Windows 10 VM Host Using Nessus](https://github.com/coder83431/Nessus-Vulnerability-Scanner)
